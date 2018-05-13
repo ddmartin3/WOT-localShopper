@@ -1,10 +1,5 @@
-## MVP List
-A search form that accesses a database
-Search results page listing products
 ...
 ...
-...
-
 =======
 # LocalShopper
 
